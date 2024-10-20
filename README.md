@@ -1,6 +1,6 @@
 # Noir Base64 Library
 
-This library provides implementations for Base64 and URL encoding and decoding over fixed sized arrays and Vectors in Noir programming language.
+This library provides implementations for Base64 and URL based encoding and decoding over fixed sized arrays and Vectors in Noir programming language.
 
 Available functions:
 
