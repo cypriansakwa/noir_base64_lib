@@ -1,3 +1,4 @@
+use crate::extensions::PartialEq;
 struct Base64EncodeBE {
     table: [u8; 64]
 }

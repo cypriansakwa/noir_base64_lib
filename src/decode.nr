@@ -1,3 +1,4 @@
+use crate::extensions::PartialEq;
 use crate::constants::INVALID_VALUE;
 
 struct Base64DecodeBE {
